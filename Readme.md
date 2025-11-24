@@ -138,11 +138,12 @@ Collection of cross-platform mobile applications with modern UI/UX.
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=kuU7I7uPlHfo&format=png&color=000000" alt="Icon" />Achieevements & Impact
-- 🎯 Deployed **5+ production-ready AI models** with 95%+ accuracy  
-- 🚀 Built and launched **10+ mobile applications** serving real users  
-- � Contakinerized and orchestrated **scalable microservices** using Docker & Kubernetes  
-- 📊 Optimized ML inference pipelines achieving **3x faster processing times**  
+##  Achievements & Impact
+- <img src="https://img.icons8.com/?size=48&id=nrY6pkbRkJCi&format=png" alt="AI" width="20" height="20" /> Deployed **5+ production-ready AI models** with 95%+ accuracy  
+- <img src="https://img.icons8.com/?size=48&id=37326&format=png" alt="Mobile" width="20" height="20" /> Built and launched **10+ mobile applications** serving real users  
+- <img src="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png" alt="Docker" width="20" height="20" /> Containerized and orchestrated **scalable microservices** using Docker & Kubernetes  
+- <img src="https://img.icons8.com/?size=48&id=43625&format=png" alt="Performance" width="20" height="20" /> Optimized ML inference pipelines achieving **3x faster processing times**  
+
 
 ---
 
