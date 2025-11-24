@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me  
 I'm a passionate **AI Engineer & Mobile App Developer** specializing in computer vision, deep learning, and full-stack development.  
-I build intelligent systems using state-of-the-art models like **YOLO, Swin Transformers, and BLIP**, and deploy scalable cloud-native applications with **Docker & Kubernetes**.
+I build intelligent systems using state-of-the-art models like **YOLO, Swin Transformers, and BLIP**, and deploy scalable cloud-native applications with **Docker**.
 
 ### 💼 Open To:
 🔹 Full-time AI/ML Engineering roles  
