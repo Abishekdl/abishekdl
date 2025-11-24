@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">AI Engineer | Mobile App Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abishekdl&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">AI Engineer | Software Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,11 +29,10 @@ I build intelligent systems using state-of-the-art models like **YOLO, Swin Tran
 
 ### 🤖 **AI / Machine Learning**
 **Frameworks & Libraries:**  
-- TensorFlow, PyTorch, Keras  
-- OpenCV, scikit-learn, NumPy, Pandas  
+- NumPy, Pandas  
 
 **Models & Architectures:**  
-- YOLO (v8, v11) - Object Detection  
+- YOLO v11 - Object Detection  
 - Swin Transformer - Vision Tasks  
 - BLIP - Vision-Language Understanding  
 - CNNs,Transformers
@@ -65,9 +60,7 @@ I build intelligent systems using state-of-the-art models like **YOLO, Swin Tran
 
 ### ☁️ **Cloud & DevOps**
 - Docker (Containerization)  
-- Kubernetes (Orchestration)  
 - Firebase (Auth, FCM, Hosting)  
-- CI/CD Pipelines  
 - Linux System Administration  
 
 ### 🛠️ **Tools & Platforms**
@@ -140,17 +133,12 @@ Collection of cross-platform mobile applications with modern UI/UX.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishekdl&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishekdl&theme=tokyonight" height="160px" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekdl&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
 ---
 
-## � Achieevements & Impact
+## (https://img.icons8.com/?size=100&id=kuU7I7uPlHfo&format=png&color=000000)(image.png) Achieevements & Impact
 - 🎯 Deployed **5+ production-ready AI models** with 95%+ accuracy  
 - 🚀 Built and launched **10+ mobile applications** serving real users  
 - � Contakinerized and orchestrated **scalable microservices** using Docker & Kubernetes  
