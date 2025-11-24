@@ -18,10 +18,10 @@ I'm a passionate **AI Engineer & Mobile App Developer** specializing in computer
 I build intelligent systems using state-of-the-art models like **YOLO, Swin Transformers, and BLIP**, and deploy scalable cloud-native applications with **Docker & Kubernetes**.
 
 ### 💼 Open To:
-- 🔹 Full-time AI/ML Engineering roles  
-- 🔹 Freelance projects in Computer Vision & Mobile Development  
-- 🔹 Open source collaborations  
-- 🔹 Technical consulting opportunities
+🔹 Full-time AI/ML Engineering roles  
+🔹 Freelance projects in Computer Vision & Mobile Development  
+🔹 Open source collaborations  
+🔹 Technical consulting opportunities
 
 ---
 
